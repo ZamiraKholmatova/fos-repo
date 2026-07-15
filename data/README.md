@@ -5,8 +5,6 @@
 | Файл | Назначение |
 |---|---|
 | [krm-v3.0.xlsx](krm-v3.0.xlsx) | исходная книга КРМ версии 3.0 |
-| [competency-catalog.csv](competency-catalog.csv) | каталог компетенций из наглядной матрицы |
-| [role-competency-matrix.csv](role-competency-matrix.csv) | рекомендуемые уровни компетенций для 11 ролей |
 
 ## Листы книги
 

@@ -7,6 +7,7 @@
 ## Быстрая навигация
 
 - [Рабочая программа дисциплины](docs/rpd.md)
+- [Описание репозитория, содержащее примеры в приложениях](docs/repository_example.pdf)
 - [Методические указания](methodical-guidelines/README.md)
 - [Информационные ресурсы](resources/README.md)
 - [Команда проекта](team/README.md)
@@ -67,7 +68,6 @@
 ├── resources/
 ├── data/
 ├── team/
-├── templates/
 ├── tools/
 └── other/
 ```

@@ -7,6 +7,7 @@
 ├── docs/
 │   ├── quality-checklist.md
 │   ├── README.md
+│   ├── repository_example.pdf
 │   └── rpd.md
 ├── Exam/
 │   ├── attachments/
@@ -63,11 +64,6 @@
 │   ├── images/
 │   │   └── .gitkeep
 │   └── README.md
-├── templates/
-│   ├── kim-template.md
-│   ├── README.md
-│   ├── resource-card-template.md
-│   └── rubric-template.md
 ├── tools/
 │   ├── README.md
 │   └── validate_repository.py
