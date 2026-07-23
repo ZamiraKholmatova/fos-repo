@@ -17,3 +17,7 @@ venv/
 
 # Локальные результаты проверки
 validation-report.txt
+
+# Реальные варианты заданий
+variants.md
+variants-*.md
