@@ -1,30 +1,49 @@
 .
 ├── data/
-│   ├── competency-catalog.csv
 │   ├── krm-v3.0.xlsx
-│   ├── README.md
-│   └── role-competency-matrix.csv
+│   └── README.md
 ├── docs/
+│   ├── levels-trajectory.md
 │   ├── quality-checklist.md
 │   ├── README.md
-│   ├── repository_example.pdf
+│   ├── replication.md
 │   └── rpd.md
 ├── Exam/
 │   ├── attachments/
-│   │   └── .gitkeep
-│   └── README.md
-├── M1-module-name/
-│   ├── attachments/
-│   │   └── .gitkeep
-│   ├── kim-01-practical-work.md
+│   │   ├── .gitkeep
+│   │   └── exam-ticket-template.md
 │   ├── README.md
 │   └── rubric-01.md
-├── M2-module-name/
+├── M1-ai-project-initiation/
 │   ├── attachments/
-│   │   └── .gitkeep
+│   │   ├── .gitkeep
+│   │   ├── template-peer-review.md
+│   │   ├── template-project-charter.md
+│   │   └── template-requirements-spec.md
 │   ├── kim-01-practical-work.md
-│   ├── kim-01-template.md
-│   └── README.md
+│   ├── kim-02-practical-work.md
+│   ├── kim-03-peer-review.md
+│   ├── README.md
+│   ├── rubric-01.md
+│   ├── rubric-02.md
+│   └── rubric-03.md
+├── M2-planning-economics/
+│   ├── attachments/
+│   │   ├── .gitkeep
+│   │   ├── business-game-roles.md
+│   │   ├── template-raci.md
+│   │   └── template-risk-register.md
+│   ├── kim-01-practical-work.md
+│   ├── kim-02-practical-work.md
+│   ├── kim-03-practical-work.md
+│   ├── kim-04-test.md
+│   ├── kim-05-business-game.md
+│   ├── README.md
+│   ├── rubric-01.md
+│   ├── rubric-02.md
+│   ├── rubric-03.md
+│   ├── rubric-04.md
+│   └── rubric-05.md
 ├── methodical-guidelines/
 │   ├── students/
 │   │   └── README.md
@@ -37,13 +56,17 @@
 │   └── README.md
 ├── Project/
 │   ├── attachments/
-│   │   └── .gitkeep
-│   └── README.md
+│   │   ├── .gitkeep
+│   │   └── presentation-requirements.md
+│   ├── README.md
+│   └── rubric-01.md
 ├── resources/
 │   ├── benchmarks/
 │   │   └── README.md
 │   ├── datasets/
-│   │   └── README.md
+│   │   ├── ai-projects-parameters.csv
+│   │   ├── README.md
+│   │   └── support-tickets-sample.csv
 │   ├── llm-prompts/
 │   │   └── README.md
 │   ├── other/
@@ -65,10 +88,15 @@
 │   │   └── .gitkeep
 │   └── README.md
 ├── tools/
+│   ├── __pycache__/
+│   │   └── ai_project_economics.cpython-312.pyc
+│   ├── ai_project_economics.py
+│   ├── generate_test_variants.py
+│   ├── make_synthetic_dataset.py
 │   ├── README.md
 │   └── validate_repository.py
 ├── .gitignore
 ├── CONTRIBUTING.md
 ├── LICENSE.md
 ├── README.md
-└── validation-report.txt
+└── repository-tree.txt
